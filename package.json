@@ -1,0 +1,9 @@
+{
+  "name": "shibuya-sushi-leesburg",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Shibuya Sushi & Bar (101 S King St, Leesburg, VA 20175) — Japanese izakaya site (websites lane)",
+  "main": "server.js",
+  "engines": { "node": ">=20" },
+  "scripts": { "start": "node server.js" }
+}

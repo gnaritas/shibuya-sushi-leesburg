@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shibuya-sushi-leesburg-demo.up.railway.app/sitemap.xml

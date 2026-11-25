@@ -1,0 +1,4 @@
+shots/
+evidence.json
+*.log
+__pycache__/
